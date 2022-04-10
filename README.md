@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... ANgular Projects
+- 🔭 I’m currently working on ... Angular Projects
 - 🌱 I’m currently learning ...Angular
 - 👯 I’m looking to collaborate on ...Angular
 - 🤔 I’m looking for help with ...Angular
